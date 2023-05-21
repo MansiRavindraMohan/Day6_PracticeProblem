@@ -15,6 +15,9 @@ namespace Day6_PracticeProblem
 
             StackClass stackClass= new StackClass();
             stackClass.MethodStack();
+
+            QueueClass queueClass = new QueueClass();
+            queueClass.MethodQueue();
             Console.ReadLine();
         }
     }
