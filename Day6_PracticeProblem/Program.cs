@@ -12,6 +12,9 @@ namespace Day6_PracticeProblem
         {
             LinkedListClass linkedListClass = new LinkedListClass();
             linkedListClass.MethodLinkedList();
+
+            StackClass stackClass= new StackClass();
+            stackClass.MethodStack();
             Console.ReadLine();
         }
     }
