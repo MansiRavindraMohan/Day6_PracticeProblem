@@ -18,6 +18,9 @@ namespace Day6_PracticeProblem
 
             QueueClass queueClass = new QueueClass();
             queueClass.MethodQueue();
+
+            SortingLinkedList sortingLinkedList = new SortingLinkedList();
+            sortingLinkedList.SortingMethod();
             Console.ReadLine();
         }
     }
